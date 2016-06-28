@@ -1,0 +1,1 @@
+csc /out:bin\Puzzle.exe src\*.cs
